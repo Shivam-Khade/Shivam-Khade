@@ -21,7 +21,7 @@
             font-weight: 600;
             text-align: center;">
 
-<b>Code till failure... or remain a failure</b>
+<b><i>CODE TILL FAILURE... OR REMAIN A FAILURE...</i></b>
 
 </div>
 
