@@ -21,7 +21,7 @@
             font-weight: 600;
             text-align: center;">
 
-<b><i>Grind TILL FAILURE... OR REMAIN A FAILURE...</i></b>
+<b><i>GRIND TILL FAILURE... OR REMAIN A FAILURE...</i></b>
 
 </div>
 
